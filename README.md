@@ -1,20 +1,20 @@
 <p align="center">
 
-  <h3 align="center">MacaBook Library Web</h3>
+  <h3 align="center">VUE POS APP</h3>
   <p align="center">
     <image align="center" width="200" src='./src/assets/readmey/logo.png' />
   </p>
 
   <p align="center">
     <br />
-    <a href="https://github.com/slucter/Library-vue-v1"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/slucter/vue-pos-application"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="http://localhost:8080//">View Demo</a>
     ·
-    <a href="https://github.com/slucter/Library-vue-v1/issues">Report Bug</a>
+    <a href="https://github.com/slucter/vue-pos-application/issues">Report Bug</a>
     ·
-    <a href="https://github.com/slucter/Library-vue-v1/issues">Request Feature</a>
+    <a href="https://github.com/slucter/vue-pos-application/issues">Request Feature</a>
   </p>
 </p>
 
