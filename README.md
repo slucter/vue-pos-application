@@ -59,7 +59,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
 ```sh
-git clone https://github.com/slucter/Library-vue-v1.git
+git clone https://github.com/slucter/vue-pos-application.git
 ```
 2. Install NPM packages
 ```sh
