@@ -2,7 +2,7 @@
 
   <h3 align="center">VUE POS APP</h3>
   <p align="center">
-    <image align="center" width="200" src='./src/assets/img/icon/cart-coffee.png' />
+    <image align="center" width="200" src='./src/assets/img/icon/cart-coffe.png' />
   </p>
 
   <p align="center">
