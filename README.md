@@ -77,9 +77,9 @@ REACT_APP_API_URL=[Backend API]
 
 <p align='center'>
   <span>
-      <image width="200" src='./src/screenshoot/dashboard.png' />
-      <image width="200" src='./src/screenshoot/sidebar.png' />
-      <image width="200" src='./src/screenshoot/detail.jpg' />
+      <image width="200" src='./src/screenshoot/POSAPP1.png' />
+      <image width="200" src='./src/screenshoot/POSAPPDASHBOARD.png' />
+      <image width="200" src='./src/screenshoot/POSAPPRESPNSIVE.png' />
      
 
 <!-- CONTRIBUTING -->
